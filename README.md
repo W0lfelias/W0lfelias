@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 
- I'm elias, an aspiring software and security engineer!!
- My goal is to be able to design and build anything!
- Planning to learn many languages....(so far only worked on Html,C, Java, Javascript and Go)
- Currently no projects but hopefully soon...
+ I'm elias, an aspiring software and security engineer!! <br>
+ My goal is to be able to design and build anything! <br>
+ Planning to learn many languages....(so far only worked on Html,Css, Java, Javascript and Go) <br>
+ Currently no projects but hopefully soon... <br>
 
 # ⚡ Fun facts:
 - I'm an enjoyer of media in general (Games, Animanga, movies and series)
 - I love taking care of pets
-- 
+- I don't drink coffee
 
 # Gentle Reminder:
 - 1% better everyday is better than anything
