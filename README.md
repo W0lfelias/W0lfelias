@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+# I'm elias, an aspiring software and security engineer!!
+# My goal is to be able to design and build anything!
+# Planning to learn many languages....(so far only worked on Html,C, Java, Javascript and Go)
+# Currently no projects but hopefully soon...
+
+# ⚡ Fun facts:
+- I'm an enjoyer of media in general (Games, Animanga, movies and series)
+- I love taking care of pets
+- 
+
+# Gentle Reminder:
+- 1% better everyday is better than anything
 <!--
 **W0lfelias/W0lfelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
