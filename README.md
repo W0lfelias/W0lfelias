@@ -12,7 +12,7 @@
 - I don't drink coffee
 
 # Gentle Reminder:
-- 1% better everyday is better than anything
+- If you improve anything by 1% each day, by the end of the year, you will be 37 times better
 <!--
 **W0lfelias/W0lfelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
