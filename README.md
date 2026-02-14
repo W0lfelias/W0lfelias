@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-# I'm elias, an aspiring software and security engineer!!
-# My goal is to be able to design and build anything!
-# Planning to learn many languages....(so far only worked on Html,C, Java, Javascript and Go)
-# Currently no projects but hopefully soon...
+ I'm elias, an aspiring software and security engineer!!
+ My goal is to be able to design and build anything!
+ Planning to learn many languages....(so far only worked on Html,C, Java, Javascript and Go)
+ Currently no projects but hopefully soon...
 
 # ⚡ Fun facts:
 - I'm an enjoyer of media in general (Games, Animanga, movies and series)
